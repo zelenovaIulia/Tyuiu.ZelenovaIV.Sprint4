@@ -1,4 +1,2 @@
-﻿void v = Console.WriteLine("Hello, World!");
-
-v;
-Console.WriteLine(f);
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
